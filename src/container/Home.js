@@ -75,9 +75,8 @@ const Home = () => {
             cursor: "pointer",
             transition: "background-color 0.2s"
           }}
-          onMouseOver={(e) => e.currentTarget.style.backgroundColor = "#1d4ed8"}
-          onMouseOut={(e) => e.currentTarget.style.backgroundColor = "#2563eb"}
-        >
+
+          >
           Add
         </button>
       </div>
