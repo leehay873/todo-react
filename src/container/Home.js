@@ -46,7 +46,7 @@ const Home = () => {
         marginBottom: "1.5rem",
         textAlign: "center",
         color: "#1f2937"
-      }}>Todo List</h1>
+      }}>Todo List by leah</h1>
 
       <div style={{ display: "flex", marginBottom: "1.5rem" }}>
         <input
